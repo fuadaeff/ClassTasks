@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\workersClass\workersClass\bin\Debug\net8.0\workersClass.exe
+C:\Users\elsad\source\repos\workersClass\workersClass\bin\Debug\net8.0\workersClass.deps.json
+C:\Users\elsad\source\repos\workersClass\workersClass\bin\Debug\net8.0\workersClass.runtimeconfig.json
+C:\Users\elsad\source\repos\workersClass\workersClass\bin\Debug\net8.0\workersClass.dll
+C:\Users\elsad\source\repos\workersClass\workersClass\bin\Debug\net8.0\workersClass.pdb
+C:\Users\elsad\source\repos\workersClass\workersClass\obj\Debug\net8.0\workersClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\workersClass\workersClass\obj\Debug\net8.0\workersClass.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\workersClass\workersClass\obj\Debug\net8.0\workersClass.AssemblyInfo.cs
+C:\Users\elsad\source\repos\workersClass\workersClass\obj\Debug\net8.0\workersClass.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\workersClass\workersClass\obj\Debug\net8.0\workersClass.dll
+C:\Users\elsad\source\repos\workersClass\workersClass\obj\Debug\net8.0\refint\workersClass.dll
+C:\Users\elsad\source\repos\workersClass\workersClass\obj\Debug\net8.0\workersClass.pdb
+C:\Users\elsad\source\repos\workersClass\workersClass\obj\Debug\net8.0\workersClass.genruntimeconfig.cache
+C:\Users\elsad\source\repos\workersClass\workersClass\obj\Debug\net8.0\ref\workersClass.dll
