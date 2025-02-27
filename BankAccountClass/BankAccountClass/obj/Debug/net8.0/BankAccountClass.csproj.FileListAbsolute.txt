@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\BankAccountClass\BankAccountClass\bin\Debug\net8.0\BankAccountClass.exe
+C:\Users\elsad\source\repos\BankAccountClass\BankAccountClass\bin\Debug\net8.0\BankAccountClass.deps.json
+C:\Users\elsad\source\repos\BankAccountClass\BankAccountClass\bin\Debug\net8.0\BankAccountClass.runtimeconfig.json
+C:\Users\elsad\source\repos\BankAccountClass\BankAccountClass\bin\Debug\net8.0\BankAccountClass.dll
+C:\Users\elsad\source\repos\BankAccountClass\BankAccountClass\bin\Debug\net8.0\BankAccountClass.pdb
+C:\Users\elsad\source\repos\BankAccountClass\BankAccountClass\obj\Debug\net8.0\BankAccountClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\BankAccountClass\BankAccountClass\obj\Debug\net8.0\BankAccountClass.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\BankAccountClass\BankAccountClass\obj\Debug\net8.0\BankAccountClass.AssemblyInfo.cs
+C:\Users\elsad\source\repos\BankAccountClass\BankAccountClass\obj\Debug\net8.0\BankAccountClass.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\BankAccountClass\BankAccountClass\obj\Debug\net8.0\BankAccountClass.dll
+C:\Users\elsad\source\repos\BankAccountClass\BankAccountClass\obj\Debug\net8.0\refint\BankAccountClass.dll
+C:\Users\elsad\source\repos\BankAccountClass\BankAccountClass\obj\Debug\net8.0\BankAccountClass.pdb
+C:\Users\elsad\source\repos\BankAccountClass\BankAccountClass\obj\Debug\net8.0\BankAccountClass.genruntimeconfig.cache
+C:\Users\elsad\source\repos\BankAccountClass\BankAccountClass\obj\Debug\net8.0\ref\BankAccountClass.dll
