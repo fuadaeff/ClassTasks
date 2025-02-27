@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\rectangularClass\rectangularClass\bin\Debug\net8.0\rectangularClass.exe
+C:\Users\elsad\source\repos\rectangularClass\rectangularClass\bin\Debug\net8.0\rectangularClass.deps.json
+C:\Users\elsad\source\repos\rectangularClass\rectangularClass\bin\Debug\net8.0\rectangularClass.runtimeconfig.json
+C:\Users\elsad\source\repos\rectangularClass\rectangularClass\bin\Debug\net8.0\rectangularClass.dll
+C:\Users\elsad\source\repos\rectangularClass\rectangularClass\bin\Debug\net8.0\rectangularClass.pdb
+C:\Users\elsad\source\repos\rectangularClass\rectangularClass\obj\Debug\net8.0\rectangularClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\rectangularClass\rectangularClass\obj\Debug\net8.0\rectangularClass.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\rectangularClass\rectangularClass\obj\Debug\net8.0\rectangularClass.AssemblyInfo.cs
+C:\Users\elsad\source\repos\rectangularClass\rectangularClass\obj\Debug\net8.0\rectangularClass.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\rectangularClass\rectangularClass\obj\Debug\net8.0\rectangularClass.dll
+C:\Users\elsad\source\repos\rectangularClass\rectangularClass\obj\Debug\net8.0\refint\rectangularClass.dll
+C:\Users\elsad\source\repos\rectangularClass\rectangularClass\obj\Debug\net8.0\rectangularClass.pdb
+C:\Users\elsad\source\repos\rectangularClass\rectangularClass\obj\Debug\net8.0\rectangularClass.genruntimeconfig.cache
+C:\Users\elsad\source\repos\rectangularClass\rectangularClass\obj\Debug\net8.0\ref\rectangularClass.dll
