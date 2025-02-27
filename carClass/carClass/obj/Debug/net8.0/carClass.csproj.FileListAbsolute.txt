@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\carClass\carClass\bin\Debug\net8.0\carClass.exe
+C:\Users\elsad\source\repos\carClass\carClass\bin\Debug\net8.0\carClass.deps.json
+C:\Users\elsad\source\repos\carClass\carClass\bin\Debug\net8.0\carClass.runtimeconfig.json
+C:\Users\elsad\source\repos\carClass\carClass\bin\Debug\net8.0\carClass.dll
+C:\Users\elsad\source\repos\carClass\carClass\bin\Debug\net8.0\carClass.pdb
+C:\Users\elsad\source\repos\carClass\carClass\obj\Debug\net8.0\carClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\carClass\carClass\obj\Debug\net8.0\carClass.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\carClass\carClass\obj\Debug\net8.0\carClass.AssemblyInfo.cs
+C:\Users\elsad\source\repos\carClass\carClass\obj\Debug\net8.0\carClass.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\carClass\carClass\obj\Debug\net8.0\carClass.dll
+C:\Users\elsad\source\repos\carClass\carClass\obj\Debug\net8.0\refint\carClass.dll
+C:\Users\elsad\source\repos\carClass\carClass\obj\Debug\net8.0\carClass.pdb
+C:\Users\elsad\source\repos\carClass\carClass\obj\Debug\net8.0\carClass.genruntimeconfig.cache
+C:\Users\elsad\source\repos\carClass\carClass\obj\Debug\net8.0\ref\carClass.dll
