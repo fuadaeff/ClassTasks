@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\calculatorClass\calculatorClass\bin\Debug\net8.0\calculatorClass.exe
+C:\Users\elsad\source\repos\calculatorClass\calculatorClass\bin\Debug\net8.0\calculatorClass.deps.json
+C:\Users\elsad\source\repos\calculatorClass\calculatorClass\bin\Debug\net8.0\calculatorClass.runtimeconfig.json
+C:\Users\elsad\source\repos\calculatorClass\calculatorClass\bin\Debug\net8.0\calculatorClass.dll
+C:\Users\elsad\source\repos\calculatorClass\calculatorClass\bin\Debug\net8.0\calculatorClass.pdb
+C:\Users\elsad\source\repos\calculatorClass\calculatorClass\obj\Debug\net8.0\calculatorClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\calculatorClass\calculatorClass\obj\Debug\net8.0\calculatorClass.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\calculatorClass\calculatorClass\obj\Debug\net8.0\calculatorClass.AssemblyInfo.cs
+C:\Users\elsad\source\repos\calculatorClass\calculatorClass\obj\Debug\net8.0\calculatorClass.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\calculatorClass\calculatorClass\obj\Debug\net8.0\calculatorClass.dll
+C:\Users\elsad\source\repos\calculatorClass\calculatorClass\obj\Debug\net8.0\refint\calculatorClass.dll
+C:\Users\elsad\source\repos\calculatorClass\calculatorClass\obj\Debug\net8.0\calculatorClass.pdb
+C:\Users\elsad\source\repos\calculatorClass\calculatorClass\obj\Debug\net8.0\calculatorClass.genruntimeconfig.cache
+C:\Users\elsad\source\repos\calculatorClass\calculatorClass\obj\Debug\net8.0\ref\calculatorClass.dll
