@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\personClass\personClass\bin\Debug\net8.0\personClass.exe
+C:\Users\elsad\source\repos\personClass\personClass\bin\Debug\net8.0\personClass.deps.json
+C:\Users\elsad\source\repos\personClass\personClass\bin\Debug\net8.0\personClass.runtimeconfig.json
+C:\Users\elsad\source\repos\personClass\personClass\bin\Debug\net8.0\personClass.dll
+C:\Users\elsad\source\repos\personClass\personClass\bin\Debug\net8.0\personClass.pdb
+C:\Users\elsad\source\repos\personClass\personClass\obj\Debug\net8.0\personClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\personClass\personClass\obj\Debug\net8.0\personClass.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\personClass\personClass\obj\Debug\net8.0\personClass.AssemblyInfo.cs
+C:\Users\elsad\source\repos\personClass\personClass\obj\Debug\net8.0\personClass.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\personClass\personClass\obj\Debug\net8.0\personClass.dll
+C:\Users\elsad\source\repos\personClass\personClass\obj\Debug\net8.0\refint\personClass.dll
+C:\Users\elsad\source\repos\personClass\personClass\obj\Debug\net8.0\personClass.pdb
+C:\Users\elsad\source\repos\personClass\personClass\obj\Debug\net8.0\personClass.genruntimeconfig.cache
+C:\Users\elsad\source\repos\personClass\personClass\obj\Debug\net8.0\ref\personClass.dll
