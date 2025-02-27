@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\studentClass\studentClass\bin\Debug\net8.0\studentClass.exe
+C:\Users\elsad\source\repos\studentClass\studentClass\bin\Debug\net8.0\studentClass.deps.json
+C:\Users\elsad\source\repos\studentClass\studentClass\bin\Debug\net8.0\studentClass.runtimeconfig.json
+C:\Users\elsad\source\repos\studentClass\studentClass\bin\Debug\net8.0\studentClass.dll
+C:\Users\elsad\source\repos\studentClass\studentClass\bin\Debug\net8.0\studentClass.pdb
+C:\Users\elsad\source\repos\studentClass\studentClass\obj\Debug\net8.0\studentClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\studentClass\studentClass\obj\Debug\net8.0\studentClass.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\studentClass\studentClass\obj\Debug\net8.0\studentClass.AssemblyInfo.cs
+C:\Users\elsad\source\repos\studentClass\studentClass\obj\Debug\net8.0\studentClass.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\studentClass\studentClass\obj\Debug\net8.0\studentClass.dll
+C:\Users\elsad\source\repos\studentClass\studentClass\obj\Debug\net8.0\refint\studentClass.dll
+C:\Users\elsad\source\repos\studentClass\studentClass\obj\Debug\net8.0\studentClass.pdb
+C:\Users\elsad\source\repos\studentClass\studentClass\obj\Debug\net8.0\studentClass.genruntimeconfig.cache
+C:\Users\elsad\source\repos\studentClass\studentClass\obj\Debug\net8.0\ref\studentClass.dll
